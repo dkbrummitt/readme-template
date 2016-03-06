@@ -68,8 +68,15 @@ Anyone and everyone is welcome to contribute, however, if you decide to get invo
 <a name="Inspiration"></a>
 ## Inspiration and Alternatives
 XXXXXXX was inspired by…
+
+Read Me Template was inspired by a [blog post](https://changelog.com/top-ten-reasons-why-i-wont-use-your-open-source-project/) on [The Changelog](https://changelog.com/).
+The [contributing](/CONTRIBUTING.md) file was heavlily influenced by [HTML 5 boilerplate](https://github.com/h5bp/html5-boilerplate/blob/master/CONTRIBUTING.md). The README.md is an amalgamation of several different READMEs. The "features" included were picked because of common practices, design, and UX.
+Future versions may include some of the recommendations found on [StackOverflow](http://stackoverflow.com/questions/2304863/how-to-write-a-good-readme)
 <br>
-Alternatives are:…
+A few Alternatives are:
+* [jxson's Gist](https://gist.github.com/jxson/1784669)
+* [Repat](https://github.com/repat/README-template) is a kitchen sink of MD templates.
+The best resource for finding more alternatives is Google
 
 
 <a name="License"></a>
