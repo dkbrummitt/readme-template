@@ -17,7 +17,7 @@ XXXXXXX is a _________ for __________.
 
 * Homepage: https://dkbrummitt.github.io/xxxxxxx
 * Source: https://github.com/dkbrummitt/xxxxxxx.git
-* Twitter: @xxxxxxx
+* Twitter: [@xxxxxxx](https://twitter.com/xxxxxxx))
 	
 <a name="Quick"></a>
 ## Quick start 
