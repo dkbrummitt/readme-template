@@ -10,6 +10,7 @@
 - [Documentation](#Documentation)
 - [Contributing](#Contributing)
 - [Inspiration and Alternatives](#Inspiration)
+- [Credits](#Credits)
 - [License](#License)
 
 
@@ -89,6 +90,9 @@ A few Alternatives are:
 
 The best resource for finding more alternatives is Google
 
+<a name="Credits"></a>
+## Credits
+* Markdown derived from [ReadMe Template](https://github.com/dkbrummitt/readme-template)
 
 <a name="License"></a>
 ## License 
