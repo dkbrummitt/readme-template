@@ -76,6 +76,7 @@ Future versions may include some of the recommendations found on [StackOverflow]
 A few Alternatives are:
 * [jxson's Gist](https://gist.github.com/jxson/1784669)
 * [Repat](https://github.com/repat/README-template) is a kitchen sink of MD templates.
+<br>
 The best resource for finding more alternatives is Google
 
 
