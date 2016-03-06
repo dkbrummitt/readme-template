@@ -43,9 +43,19 @@ git commit -m "Use README Boilerplate"
 
 <a name="Usage"></a>
 ## Usage
+1. CD to the working directory of your existing project. 
+```
+cd /path/to/project
+```
+2. Clone the Readme Template
+```
+git clone https://github.com/dkbrummitt/readme-template.git
+```
+3. Replace the XXXXXXX of this `README.md` with your project's name. 
+4. Replace all xxxxxxx with your project's repo or twitter handle. 
+5. Adjust the description, logo placeholder, Quick Start, etc. to fit your project.
 
-Replace the XXXXXXX of this `README.md` with your project's name. Then adjust the description, logo placeholder, Quick Start, etc. to fit your project.
-Feel free to remove any sections that aren't applicable to your project.  This template is 
+Feel free to add, update, or remove any sections to fit your project.   
 
 <a name="Support"></a>
 ## Support
